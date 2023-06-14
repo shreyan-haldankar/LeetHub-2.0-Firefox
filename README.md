@@ -7,21 +7,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/arunbhardwaj/LeetHub-2.0/blob/main/LICENSE">
+  <a href="https://github.com/shreyan-haldankar/LeetHub-2.0-Firefox/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"/>
   </a>
-  <!-- <a href="https://discord.gg/anXT9vErxu">
-    <img src="https://img.shields.io/discord/781373810251137074" alt="discord">
-  </a> -->
-  <!-- <a href="https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi">
-    <img src="https://img.shields.io/chrome-web-store/v/aciombdipochlnkbpcbgdpjffcfdbggi.svg" alt="chrome-webstore"/>
-  </a> -->
-  <!-- <a href="https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi">
-    <img src="https://img.shields.io/chrome-web-store/d/aciombdipochlnkbpcbgdpjffcfdbggi.svg" alt="users">
-  </a>
-  <a href="https://github.com/arunbhardwaj/LeetHub-1.1/graphs/contributors" alt="Contributors">
-    <img src="https://img.shields.io/github/contributors/arunbhardwaj/LeetHub-1.1" />
-  </a> -->
+  
 </p>
 
 <!-- <div align="center">
@@ -59,7 +48,7 @@ Moreover, pushing code manually to GitHub from Leetcode is very time consuming. 
 </ol>
 
 
-#### BONUS: Star [this repository](https://github.com/arunbhardwaj/LeetHub-2.0) for further development of features. If you want a particular feature, simply [request](https://github.com/arunbhardwaj/LeetHub-2.0/labels/feature) for it!
+#### BONUS: Star [this repository](https://github.com/shreyan-haldankar/LeetHub-2.0-Firefox) for further development of features. If you want a particular feature, simply [request](https://github.com/shreyan-haldankar/LeetHub-2.0-Firefox/labels/feature) for it!
 
 
 ## Why did I decide to work on LeetHub?
