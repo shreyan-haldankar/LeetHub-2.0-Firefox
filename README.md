@@ -62,6 +62,13 @@ After the recent SVB bank closure and growing layoffs, it became clear to me tha
 
 
 # How to set up LeetHub for local development?
+
+## Setting up OAuth with Github
+![Setup an OAuth Application with Github](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app)
+<p>
+Add the Client ID and Client Secret you received in scripts/oauth2.js and scripts/authorize.js
+</p>
+
 ## On firefox
 <ol>
   <li>Fork this repo and clone to your local machine</li>
