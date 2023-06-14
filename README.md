@@ -62,7 +62,17 @@ After the recent SVB bank closure and growing layoffs, it became clear to me tha
 
 
 # How to set up LeetHub for local development?
+## On firefox
+<ol>
+  <li>Fork this repo and clone to your local machine</li>
+  <li>Go to <a href="about:debugging">about:debugging</a></li>
+  <li>Click <a href="about:debugging#/runtime/this-firefox">'This Firefox'</a> in the left tab</li>
+  <li>Click 'Load Temporary Add-on'</li>
+  <li>Select a file within the LeetHub root folder</li>
+  <li>Run "npm run setup" with the root folder to install the developer dependencies</li>
+</ol>
 
+## On Chrome
 <ol>
   <li>Fork this repo and clone to your local machine</li>
   <li>Go to <a href="chrome://extensions">chrome://extensions</a> </li>
